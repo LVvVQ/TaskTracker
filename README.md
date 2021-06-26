@@ -1,12 +1,12 @@
 # Task Tracker
-` ` This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+``  This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
 
 ## Project setup
 ```
 npm install
 ```
 
-### Run the JSON-Server backend([http:localhost:5000](http://localhost:5000))
+### Run the JSON-Server backend([http://localhost:5000](http://localhost:5000))
 ```
 npm run backend
 ```
